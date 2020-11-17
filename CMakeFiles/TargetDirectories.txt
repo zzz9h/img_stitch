@@ -1,0 +1,3 @@
+/home/zgh/HelloOpencv/CMakeFiles/rebuild_cache.dir
+/home/zgh/HelloOpencv/CMakeFiles/ShowImage.dir
+/home/zgh/HelloOpencv/CMakeFiles/edit_cache.dir
